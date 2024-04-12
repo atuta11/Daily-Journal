@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  },
+  "name": "daily-journal",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
